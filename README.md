@@ -8,7 +8,11 @@ CloudFlareScan （简称CFS)  适配 Windows  macOS  Android  Linux
 
 软件演示视频：https://www.youtube.com/watch?v=Fw2W4B77bts
 
-⚠️免责声明：本工具仅供学习和合法网络测速，请遵守当地法律法规，造成的一切后果自负。
+⚠️免责声明：
+本程序仅限用于学习与研究目的
+请在下载后24小时内自行删除。使用本程序时，应自行遵守所在地区的法律法规
+作者不对使用本程序所产生的任何后果承担责任
+下载或使用本程序即视为已阅读、理解并同意上述声明
 
 <img width="611" height="476" alt="14eaeb7504c8db5685f261513fd8ecf2" src="https://github.com/user-attachments/assets/46976c98-f8ce-4d55-948b-05151c0f4d03" />
 
